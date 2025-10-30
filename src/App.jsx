@@ -73,7 +73,7 @@ function App() {
         <div className="min-h-screen bg-gray-50 p-6 md:p-10">
             <div className="max-w-4xl mx-auto bg-white shadow-xl rounded-2xl p-6 md:p-10">
                 <h1 className="text-4xl font-extrabold text-blue-700 mb-2">
-                    🎓 Alex's Book Finder
+                    🎓Hello, Alex  your Book Finder App is here.
                 </h1>
                 <p className="text-gray-500 mb-6">
                     Search by Title, Author, Subject, or ISBN.
