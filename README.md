@@ -67,17 +67,14 @@ The core feature is the **four-mode search** powered by distinct Open Library AP
 | **`App.js`** | Main Logic | Dynamically constructs the API URL based on the user's selected search type (`title=`, `author=`, `subject=`, `isbn=`). |
 | **`SearchForm.js`** | Input UI | Manages the active search type state and passes the query/type up to `App.js`. |
 | **`BookCard.js`** | Single Result Display | Extracts the book cover ID (`cover_i`) to construct the separate Open Library Covers API URL for image display. |
-|** `BookCard.js`** |Single Result Display	Extracts the book cover ID (cover_i) to construct the separate Open Library Covers API URL for image display.|
+** `BookCard.js`** |Single Result Display	Extracts the book cover ID (cover_i) to construct the separate Open Library Covers API URL for image display.
 
 ---
 
-## 🔗 Links
-
+## 🔗  Links
 
 * **AI Conversation Log (Level 1):**
     * https://gemini.google.com/share/a427e08521a0
 
     * **Live Application (Level 2):**
-    * https://httzvn-5173.csb.app/
-
-
+    * https://425nmx-5173.csb.app/
