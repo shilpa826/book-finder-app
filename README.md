@@ -71,13 +71,13 @@ The core feature is the **four-mode search** powered by distinct Open Library AP
 
 ---
 
-## 🔗 Submission Links
+## 🔗 Links
 
-*Remember to replace the bracketed placeholders below with your actual links.*
-
-* **Live Application (Level 2):**
-    * https://httzvn-5173.csb.app/
-    
 
 * **AI Conversation Log (Level 1):**
     * https://gemini.google.com/share/a427e08521a0
+
+    * **Live Application (Level 2):**
+    * https://httzvn-5173.csb.app/
+
+
