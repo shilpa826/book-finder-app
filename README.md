@@ -1,4 +1,4 @@
-# 📚 Alex's Book Finder: College Search Tool
+# 📚 Alex's Book Finder App: College Search Tool
 
 This application was developed to address the "Book Finder" user need from the Take-Home Challenge. It provides a fast, flexible, and precise searching tool optimized for a college student persona (Alex).
 
@@ -67,6 +67,7 @@ The core feature is the **four-mode search** powered by distinct Open Library AP
 | **`App.js`** | Main Logic | Dynamically constructs the API URL based on the user's selected search type (`title=`, `author=`, `subject=`, `isbn=`). |
 | **`SearchForm.js`** | Input UI | Manages the active search type state and passes the query/type up to `App.js`. |
 | **`BookCard.js`** | Single Result Display | Extracts the book cover ID (`cover_i`) to construct the separate Open Library Covers API URL for image display. |
+|** `BookCard.js`** |Single Result Display	Extracts the book cover ID (cover_i) to construct the separate Open Library Covers API URL for image display.|
 
 ---
 
